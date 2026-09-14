@@ -1,0 +1,3 @@
+# Linux-Specific Tools and Commands
+
+This section is for Unix/Linux systems only. Assume all commands are targeted towards Fedora/RHEL distributions since that's all I use at the current moment. Maybe at some point I'll expand to other distros, but I'm 1,000% over distro hopping at this point. I don't have the mental space formore OS learning...
